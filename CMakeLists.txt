@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
-project(Amethyst-Template CXX ASM_NASM)
-set(MOD_VERSION "0.0.0")
-set(MOD_AUTHOR "FrederoxDev")
+project(Test CXX ASM_NASM)
+set(MOD_VERSION "1.0.0")
+set(MOD_AUTHOR "Tako")
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /await")
